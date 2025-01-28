@@ -22,4 +22,4 @@ print_r( $religiousTimes->get_data("tehran"));
 Mohammad Mohammad Soltani 
 
 # Lisence
-this project have **MIT LISECE**.
+this project have **MIT LISENCE**.
